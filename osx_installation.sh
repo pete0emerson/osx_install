@@ -62,3 +62,4 @@ code --install-extension wholroyd.HCL
 brew install --cask signal
 brew install --cask whatsapp
 brew install --cask zoom
+brew install --cask notion
