@@ -63,3 +63,5 @@ brew install --cask signal
 brew install --cask whatsapp
 brew install --cask zoom
 brew install --cask notion
+brew install ---cask keybase
+brew install --cask eqmac
