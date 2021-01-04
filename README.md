@@ -21,6 +21,7 @@ This repository contains commands (mostly [Homebrew](https://brew.sh/)) I ran to
 | [Micro](https://micro-editor.github.io/) | Simple text-based editor |
 | [Notion](https://www.notion.so) | All-in-one workspace |
 | [Rectangle](https://github.com/rxhanson/Rectangle) | Window management app based on Spectacle, written in Swift |
+| [Ripgrep](https://github.com/BurntSushi/ripgrep) | Faster, better grep |
 | [Signal](https://signal.org) | Encrypted Messaging |
 | [Slack](https://slack.com/) | Instant Messaging for work |
 | [Vagrant](https://www.vagrantup.com/) | Wrangle virtual environments easily |
