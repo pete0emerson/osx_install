@@ -9,6 +9,7 @@ This repository contains commands (mostly [Homebrew](https://brew.sh/)) I ran to
 | [1Password](https://1password.com/) | Password manager |
 | [Authy](https://authy.com/) | 2FA manager |
 | [Docker](https://www.docker.com/) | Platform for developing, shipping, and running applications in containers |
+| [Dropbox](https://www.dropbox.com/) | Cloud file storage |
 | [eqMac](https://eqmac.app/) | Free Audio Equalizer |
 | [Firefox](https://www.mozilla.org/en-US/firefox/) | Web browser |
 | [Flycut](https://github.com/TermiT/Flycut) | Flycut is a clean and simple clipboard manager for developers |

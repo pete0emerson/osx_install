@@ -66,3 +66,4 @@ brew install --cask notion
 brew install ---cask keybase
 brew install --cask eqmac
 brew install ripgrep
+brew install --cask dropbox
