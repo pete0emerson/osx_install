@@ -67,3 +67,6 @@ brew install ---cask keybase
 brew install --cask eqmac
 brew install ripgrep
 brew install --cask dropbox
+brew install pass
+brew install pwgen
+brew install --cask basecamp
